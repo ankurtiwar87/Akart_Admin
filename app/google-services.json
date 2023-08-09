@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "787874641292",
+    "project_id": "akart-ab79b",
+    "storage_bucket": "akart-ab79b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787874641292:android:2aa511f14f24a0314f92a9",
+        "android_client_info": {
+          "package_name": "com.ankur.akart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787874641292-0it4a1puhbm01cdv7nre6qf9u8p4kte6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmQwlolD2GrZ0LZoyYi5aAtRgbmfwcME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787874641292-0it4a1puhbm01cdv7nre6qf9u8p4kte6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787874641292:android:a7e03f2bdc983c404f92a9",
+        "android_client_info": {
+          "package_name": "com.ankur.akartadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787874641292-0it4a1puhbm01cdv7nre6qf9u8p4kte6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTmQwlolD2GrZ0LZoyYi5aAtRgbmfwcME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787874641292-0it4a1puhbm01cdv7nre6qf9u8p4kte6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
